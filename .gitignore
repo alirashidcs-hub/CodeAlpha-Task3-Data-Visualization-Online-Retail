@@ -1,0 +1,24 @@
+# Data files (large; see data/*/README.md for download/regeneration instructions)
+data/raw/*.xlsx
+data/processed/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.jupyter/
+
+# Temp files
+*.tmp
+
+# Environment
+.env
